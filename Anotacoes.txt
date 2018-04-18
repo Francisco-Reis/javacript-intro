@@ -1,0 +1,11 @@
+===== 17/04 =====
+Função querySelector só retorna um elemento e o primeiro que encontrar
+Pra trazer todos: querySelectorAll
+
+toFixed(): função que limita as casas decimais de um float ou double
+
+variavle.style = propriedade que permite alterar o estilo css do elemento dentro do javascript.
+Usa CamelCase: exemplo: variavel.style.backgroundColor
+
+propriedade classList: Carrega classes do elemento e pode incluir, alterar, remover classes
+classList.add("nome-da-classe")
